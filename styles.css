@@ -1,0 +1,17 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkolivegreen;
+}
+
+#choices, #scores{
+    padding: 2%;
+    background-color: antiquewhite;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px; 
+}
